@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Oxygen', sans-serif;
+    background: #293241;
+    color: white;
+    margin: 0 auto;
+}
+#nav-bar { 
+	position: absolute;
+    width: 100%;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #583D72;
+}
+#text{
+    position: absolute;
+    width: 40%;
+    height: 46px;
+    left: 2%;
+    top: 0%;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    color: #FFBA93;
+}
